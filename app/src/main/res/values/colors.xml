@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg_dark">#0A0E1A</color>
+    <color name="surface_dark">#111827</color>
+    <color name="accent_cyan">#00D4FF</color>
+    <color name="success_green">#2ECC71</color>
+    <color name="warning_orange">#FFA500</color>
+    <color name="danger_red">#FF4757</color>
+    <color name="text_secondary">#7A8BA0</color>
+    <color name="nav_selected">#00D4FF</color>
+    <color name="nav_unselected">#4A5568</color>
+</resources>

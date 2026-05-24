@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "132702203906",
+    "project_id": "ai-networking-app-99b0d",
+    "storage_bucket": "ai-networking-app-99b0d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:132702203906:android:2e7d4a72ac81e9a173f71b",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzEUXBvlPyllI-WJidUbLgmQCSQnIwiM8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
